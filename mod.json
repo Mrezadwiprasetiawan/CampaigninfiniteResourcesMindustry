@@ -1,1 +1,10 @@
-
+{
+	"name": "infiniteResourcesCampaign",
+	"displayName": "Infinite Resources Campaign",
+	"author": "Mrezadwiprasetiawan",
+	"description": "infinite resources on serpulo and erekir \n also the hidden planet",
+	"version": "1",
+	"hidden": true,
+	"minGameVersion": "146",
+	"repo": "Mrezadwiprasetiawan/CampaigninfiniteResourcesMindustry"
+}
